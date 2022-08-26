@@ -22,7 +22,7 @@ class SubBot:
     bellButtonClick = "Bell[1].click();"    
 
     # Type here your channel url:
-    url = input("Enter your channel link = ")
+    url = input("https://www.youtube.com/channel/UCe3yC9BC477zw_Q0KLIX6sg = ")
     
     listOfBrowser = ['start chrome '+url,'start firefox '+url]
 
